@@ -32,7 +32,9 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 
 - [E-Commerce-Back-End Video Link]()
 
-- [Employee Tracker Screehshot]()
+- [Screenshots]
+
+
 
 ## Resources
 
@@ -46,6 +48,7 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 - npm install
 - mysql -u root -p 
 - source db/schema.sql
+- exit
 - npm run seed
 - npm start or nodemon
 
