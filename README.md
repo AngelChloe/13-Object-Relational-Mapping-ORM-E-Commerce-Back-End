@@ -34,6 +34,16 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 
 - [Screenshots]
 
+* Catergoty added
+![CatergoryAdded](https://user-images.githubusercontent.com/105569378/197310707-18076835-4f03-4e2f-86b9-343e2ab3803b.png)
+
+* Product added
+![ProductAdded](https://user-images.githubusercontent.com/105569378/197310709-f48d65a4-60f5-4d63-a94b-f441f2e6191d.png)
+
+* Tag added
+![TagAdded](https://user-images.githubusercontent.com/105569378/197310712-1b0ee416-59f3-4ec1-a172-96a6f75d72af.png)
+
+
 
 
 ## Resources
