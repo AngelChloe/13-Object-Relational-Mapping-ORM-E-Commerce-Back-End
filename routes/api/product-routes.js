@@ -2,7 +2,7 @@ const router = require('express').Router();
 const { realpath } = require('fs');
 const { Product, Category, Tag, ProductTag } = require('../../models');
 
-// The `/api/products` endpoint
+// The '/api/products' endpoint
 
 // GET all products
 router.get('/', (req, res) => {
@@ -29,7 +29,7 @@ router.get('/', (req, res) => {
 
 // GET product by ID
 router.get('/:id', (req, res) => {
-  // find a single product by its `id`
+  // find a single product by its 'id'
   // be sure to include its associated Category and Tag data
   Product.findOne({
     where: {
@@ -139,7 +139,7 @@ router.put('/:id', (req, res) => {
 
 // Delete product by ID
 router.delete('/:id', (req, res) => {
-  // delete one product by its `id` value
+  // delete one product by its 'id' value
   Product.destroy({
     where: {
       id: req.params.id
