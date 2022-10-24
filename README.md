@@ -6,10 +6,11 @@
 1. [User story](#user-story)
 2. [Acceptance criteria](#acceptance-criteria)
 3. [Visuals](#visuals)
-4. [Resources](#resources)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Authors and Acknowledgements](#authors-and-acknowledgements)
+4. [Walkthrough Video](#walkthrough-video)
+5. [Resources](#resources)
+6. [Installation](#installation)
+7. [Usage](#usage)
+8. [Authors and Acknowledgements](#authors-and-acknowledgements)
 
 ## User story
 
@@ -43,6 +44,9 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 ** Tag added
 ![TagAdded](https://user-images.githubusercontent.com/105569378/197310712-1b0ee416-59f3-4ec1-a172-96a6f75d72af.png)
 
+## Video Link
+
+(https://drive.google.com/file/d/1Vgxo7T6fviH6C0IwLa9l4dkbNP_HyHLp/view)
 
 
 ## Resources
