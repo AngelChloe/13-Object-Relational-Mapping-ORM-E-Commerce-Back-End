@@ -5,7 +5,7 @@
 
 1. [User story](#user-story)
 2. [Acceptance criteria](#acceptance-criteria)
-3. [Visuals](#visuals)
+3. [Screenshots](#screenshots)
 4. [Walkthrough Video](#walkthrough-video)
 5. [Resources](#resources)
 6. [Installation](#installation)
@@ -29,9 +29,6 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 - I test API POST, PUT, and DELETE routes in Insomnia
 - I am able to successfully create, update, and delete data in my database
 
-## Visuals
-
-- [E-Commerce-Back-End Video Link]()
 
 ## Screenshots
 
@@ -44,10 +41,10 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 ** Tag added
 ![TagAdded](https://user-images.githubusercontent.com/105569378/197310712-1b0ee416-59f3-4ec1-a172-96a6f75d72af.png)
 
+
 ## Walkthrough Video
 
-(https://drive.google.com/file/d/1Vgxo7T6fviH6C0IwLa9l4dkbNP_HyHLp/view)
-
+- [E-Commerce-Back-End Video Link](https://drive.google.com/file/d/1QCjsTkfIq74S12pTnMZfSemmnQK1GpI7/view)
 
 ## Resources
 
