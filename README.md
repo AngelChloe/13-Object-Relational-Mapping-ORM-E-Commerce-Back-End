@@ -44,9 +44,7 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 
 ## Walkthrough Video
 
-- [E-Commerce-Back-End Video Link](https://drive.google.com/file/d/1QCjsTkfIq74S12pTnMZfSemmnQK1GpI7/view)
-
-## Resources
+- [E-Commerce-Back-End Video Link](https://drive.google.com/file/u/1/d/18WWQQKblRJP7qggZcz-lnyMHr0n5vKH6/view)
 
 - [Repository](https://github.com/Cinderbeast/13-Object-Relational-Mapping-ORM-E-Commerce-Back-End)
 
