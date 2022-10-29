@@ -47,6 +47,8 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 
 - [Create Schema Database Walkthrough](https://drive.google.com/file/d/1MkeP7Q4K6ajfa4BPDmyBKu25Y7Jqfr_1/view)
 
+## Resources
+
 - [Repository](https://github.com/Cinderbeast/13-Object-Relational-Mapping-ORM-E-Commerce-Back-End)
 
 ## Installation
