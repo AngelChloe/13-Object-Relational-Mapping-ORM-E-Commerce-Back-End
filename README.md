@@ -43,8 +43,6 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 
 ** Creating Schema Database
 ![CreateSchema1](https://user-images.githubusercontent.com/105569378/198773991-b740d514-5f3d-46b0-9fc8-4961cbba5fa1.png)
-
-** Creating Schema Database Continued
 ![CreateSchema2](https://user-images.githubusercontent.com/105569378/198775570-9cdd16ec-6825-4586-a4ec-635c237c6eb2.png)
 
 ## Walkthrough Video's
