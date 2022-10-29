@@ -6,7 +6,7 @@
 1. [User story](#user-story)
 2. [Acceptance criteria](#acceptance-criteria)
 3. [Screenshots](#screenshots)
-4. [Walkthrough Video](#walkthrough-video)
+4. [Walkthrough Video's](#walkthrough-video's)
 5. [Resources](#resources)
 6. [Installation](#installation)
 7. [Usage](#usage)
@@ -42,9 +42,11 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 ![TagAdded](https://user-images.githubusercontent.com/105569378/197310712-1b0ee416-59f3-4ec1-a172-96a6f75d72af.png)
 
 
-## Walkthrough Video
+## Walkthrough Video's
 
 - [E-Commerce-Back-End Video Link](https://drive.google.com/file/u/1/d/18WWQQKblRJP7qggZcz-lnyMHr0n5vKH6/view)
+
+- [Create Schema Database Walkthrough](https://drive.google.com/file/d/1MkeP7Q4K6ajfa4BPDmyBKu25Y7Jqfr_1/view)
 
 - [Repository](https://github.com/Cinderbeast/13-Object-Relational-Mapping-ORM-E-Commerce-Back-End)
 
