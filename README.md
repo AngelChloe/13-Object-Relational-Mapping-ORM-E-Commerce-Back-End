@@ -43,7 +43,7 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 
 ## Walkthrough Video's
 
-- [E-Commerce-Back-End Video Link](https://drive.google.com/file/u/1/d/18WWQQKblRJP7qggZcz-lnyMHr0n5vKH6/view)
+- [E-Commerce-Back-End Video Link](https://drive.google.com/file/d/18WWQQKblRJP7qggZcz-lnyMHr0n5vKH6/view
 
 - [Create Schema Database Walkthrough](https://drive.google.com/file/d/1MkeP7Q4K6ajfa4BPDmyBKu25Y7Jqfr_1/view)
 
