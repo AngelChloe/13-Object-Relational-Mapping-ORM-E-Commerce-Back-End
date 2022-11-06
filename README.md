@@ -41,6 +41,9 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 ** Tag added
 ![TagAdded](https://user-images.githubusercontent.com/105569378/197310712-1b0ee416-59f3-4ec1-a172-96a6f75d72af.png)
 
+** Get All Routes Test
+![GetRoutesProductTest](https://user-images.githubusercontent.com/105569378/200148275-2f2ccee9-ace0-4d63-bbdd-117f11b59ccc.png)
+
 ## Walkthrough Video's
 
 - [E-Commerce-Back-End Video Link](https://drive.google.com/file/d/18WWQQKblRJP7qggZcz-lnyMHr0n5vKH6/view)
