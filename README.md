@@ -52,7 +52,7 @@ As a manager at an internet retail company I want a back end for my e-commerce w
 
 ## Resources
 
-- [Repository](https://github.com/Cinderbeast/13-Object-Relational-Mapping-ORM-E-Commerce-Back-End)
+- [Repository](https://github.com/AngelChloe/13-Object-Relational-Mapping-ORM-E-Commerce-Back-End/)
 
 ## Installation
 - Download through GitHub
